@@ -1,13 +1,13 @@
 # WXChatPay
-# 完整的微信支付
+## 完整的微信支付
 
-## 文件配置截图
+### 文件配置截图
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/1.png);
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/2.png);
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/3.png);
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/4.png);
 
-## 下载下来的demo只要在pch文件中配置好备注写明要配置的参数即可直接运行
+### 下载下来的demo只要在pch文件中配置好备注写明要配置的参数即可直接运行
       #ifndef wxchatpay_pch
       #define wxchatpay_pch
       // Include any system framework and library headers here that should be included in all compilation units.
@@ -80,3 +80,6 @@
 - IPToolManager: 获取ip地址工具类
 
 
+### 演示截图(真机测试，使用文件中默认的1分钱价格进行支付)
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/6.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/7.png);
