@@ -80,9 +80,9 @@
 - IPToolManager: 获取ip地址工具类
 
 ### 支付截图：
-![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/5.png);
-![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/6.png);
-![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/7.png);
-![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/8.png);
+    ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/5.png);
+    ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/6.png);
+    ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/7.png);
+    ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/8.png);
 
 
