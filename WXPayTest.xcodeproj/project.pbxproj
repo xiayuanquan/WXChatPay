@@ -28,6 +28,14 @@
 		E4EC9AB61DE4476C005532FB /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4EC9AB51DE4476C005532FB /* CFNetwork.framework */; };
 		E4EC9AB91DE4483B005532FB /* CoreTelephony.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E4EC9AB71DE44787005532FB /* CoreTelephony.framework */; };
 		E4EC9ABB1DE44957005532FB /* libz.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = E4EC9ABA1DE44957005532FB /* libz.tbd */; };
+		E4EC9AC11DE481BB005532FB /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9ABD1DE481BB005532FB /* 1.png */; };
+		E4EC9AC21DE481BB005532FB /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9ABE1DE481BB005532FB /* 2.png */; };
+		E4EC9AC31DE481BB005532FB /* 3.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9ABF1DE481BB005532FB /* 3.png */; };
+		E4EC9AC41DE481BB005532FB /* 4.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9AC01DE481BB005532FB /* 4.png */; };
+		E4EC9AC91DE481C0005532FB /* 8.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9AC51DE481C0005532FB /* 8.png */; };
+		E4EC9ACA1DE481C0005532FB /* 7.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9AC61DE481C0005532FB /* 7.png */; };
+		E4EC9ACB1DE481C0005532FB /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9AC71DE481C0005532FB /* 6.png */; };
+		E4EC9ACC1DE481C0005532FB /* 5.png in Resources */ = {isa = PBXBuildFile; fileRef = E4EC9AC81DE481C0005532FB /* 5.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -88,6 +96,14 @@
 		E4EC9AB51DE4476C005532FB /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 		E4EC9AB71DE44787005532FB /* CoreTelephony.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreTelephony.framework; path = System/Library/Frameworks/CoreTelephony.framework; sourceTree = SDKROOT; };
 		E4EC9ABA1DE44957005532FB /* libz.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libz.tbd; path = usr/lib/libz.tbd; sourceTree = SDKROOT; };
+		E4EC9ABD1DE481BB005532FB /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		E4EC9ABE1DE481BB005532FB /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		E4EC9ABF1DE481BB005532FB /* 3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3.png; sourceTree = "<group>"; };
+		E4EC9AC01DE481BB005532FB /* 4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4.png; sourceTree = "<group>"; };
+		E4EC9AC51DE481C0005532FB /* 8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 8.png; sourceTree = "<group>"; };
+		E4EC9AC61DE481C0005532FB /* 7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 7.png; sourceTree = "<group>"; };
+		E4EC9AC71DE481C0005532FB /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		E4EC9AC81DE481C0005532FB /* 5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +185,7 @@
 		E4EC9A5E1DE44562005532FB /* WXPayTest */ = {
 			isa = PBXGroup;
 			children = (
+				E4EC9ABC1DE481AD005532FB /* screenshots */,
 				E4EC9A921DE44594005532FB /* wechatPay */,
 				E4EC9A621DE44562005532FB /* AppDelegate.h */,
 				E4EC9A631DE44562005532FB /* AppDelegate.m */,
@@ -288,6 +305,21 @@
 			path = XMLDictionary;
 			sourceTree = "<group>";
 		};
+		E4EC9ABC1DE481AD005532FB /* screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				E4EC9ABD1DE481BB005532FB /* 1.png */,
+				E4EC9ABE1DE481BB005532FB /* 2.png */,
+				E4EC9ABF1DE481BB005532FB /* 3.png */,
+				E4EC9AC01DE481BB005532FB /* 4.png */,
+				E4EC9AC81DE481C0005532FB /* 5.png */,
+				E4EC9AC71DE481C0005532FB /* 6.png */,
+				E4EC9AC61DE481C0005532FB /* 7.png */,
+				E4EC9AC51DE481C0005532FB /* 8.png */,
+			);
+			path = screenshots;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -397,10 +429,18 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E4EC9ACB1DE481C0005532FB /* 6.png in Resources */,
+				E4EC9AC21DE481BB005532FB /* 2.png in Resources */,
 				E4EC9A6F1DE44562005532FB /* LaunchScreen.storyboard in Resources */,
 				E4EC9A6C1DE44562005532FB /* Assets.xcassets in Resources */,
 				E4EC9AAB1DE44594005532FB /* README.txt in Resources */,
+				E4EC9AC41DE481BB005532FB /* 4.png in Resources */,
 				E4EC9A6A1DE44562005532FB /* Main.storyboard in Resources */,
+				E4EC9AC91DE481C0005532FB /* 8.png in Resources */,
+				E4EC9ACA1DE481C0005532FB /* 7.png in Resources */,
+				E4EC9ACC1DE481C0005532FB /* 5.png in Resources */,
+				E4EC9AC31DE481BB005532FB /* 3.png in Resources */,
+				E4EC9AC11DE481BB005532FB /* 1.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
