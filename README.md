@@ -3,6 +3,9 @@
 
 ## 文件配置截图
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/1.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/2.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/3.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/4.png);
 
 ## 下载下来的demo只要在pch文件中配置好备注写明要配置的参数即可直接运行
       #ifndef wxchatpay_pch
@@ -77,5 +80,9 @@
 - IPToolManager: 获取ip地址工具类
 
 ### 支付截图：
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/5.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/6.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/7.png);
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/8.png);
 
 
