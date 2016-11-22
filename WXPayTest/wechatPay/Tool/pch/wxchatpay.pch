@@ -32,11 +32,11 @@
 #define WX_APPSecret @"8edb769d5d11f25xxxxxxxxx"
 
 // 微信支付商户号
-#define MCH_ID  @"1412815502"
+#define MCH_ID  @"14128xxxxx"
 
 // 安全校验码（MD5）密钥，商户平台登录账户和密码登录http://pay.weixin.qq.com
 // 平台设置的“API密钥”，为了安全，请设置为以数字和字母组成的32字符串。
-#define WX_PartnerKey @"Biaojiepay2118816806934dongdekj0"
+#define WX_PartnerKey @"xxxxxxxxx06934dongdekj0"
 
 
 #pragma mark - 统一下单请求参数键值
