@@ -79,7 +79,4 @@
 
 - IPToolManager: 获取ip地址工具类
 
-### 给出一张支付成功截图：
-    ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/8.png);
-
 
