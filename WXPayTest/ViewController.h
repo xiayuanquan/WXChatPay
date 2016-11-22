@@ -2,7 +2,7 @@
 //  ViewController.h
 //  WXPayTest
 //
-//  Created by FanLei on 16/11/22.
+//  Created by 夏远全 on 16/11/22.
 //  Copyright © 2016年 广州市东德网络科技有限公司. All rights reserved.
 //
 
