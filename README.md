@@ -1,7 +1,8 @@
 # WXChatPay
 # 完整的微信支付
 
-## 文件配置
+## 文件配置截图
+![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/1.png);
 
 ## 下载下来的demo只要在pch文件中配置好备注写明要配置的参数即可直接运行
       #ifndef wxchatpay_pch
@@ -76,4 +77,5 @@
 - IPToolManager: 获取ip地址工具类
 
 ### 支付截图：
+
 
