@@ -19,7 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
     //注册微信支付
-    [WXApi registerApp:WX_APPID withDescription:@"夏远全的账户"];
+    [WXApi registerApp:WX_APPID withDescription:@"wxchatpay"];
     
     return YES;
 }
