@@ -79,7 +79,10 @@
 
 - IPToolManager: 获取ip地址工具类
 
+### 注意  
 
+    微信支付中单位的换算是分，已经是最小的单位了，如果你想要输入小数，例如42.50，那么你需要多一步操作：在请求时将42.50 x 100即可，微信那边收到后自动转为你想要的42.50格式。
+    
 ### 演示截图(真机测试，使用文件中默认的1分钱价格进行支付)
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/6.png);
 ![image](https://github.com/xiayuanquan/WXChatPay/blob/master/WXPayTest/screenshots/7.png);
